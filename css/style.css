@@ -1,0 +1,34 @@
+body {
+	font-size: 17px;
+	line-height: 1.47059;
+	font-weight: 400;
+	letter-spacing: -.022em;
+	font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	background-color: #fff;
+	color: #1d1d1f;
+	font-style: normal;
+}
+
+.large_centered {
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+.main_container {
+	margin-top: 96px;
+}
+
+.section_content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+}
+
+.head_line {
+	font-size: 60px;
+	line-height: 1.05;
+	font-weight: 700;
+	letter-spacing: -.015em;
+	font-family: "SF Pro SC", "SF Pro Display", "SF Pro Icons", "PingFang SC", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
